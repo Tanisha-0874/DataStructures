@@ -24,7 +24,7 @@
 
 <pre>
 <strong>Input:</strong> nums = [3,3], target = 6
-<strong>Output:</strong> [0,1]
+<strong>Output:</strong> [0,1] 
 </pre>
 
 <p>&nbsp;</p>
